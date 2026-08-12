@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    { "item": "minecraft:cooked_porkchop" },
+    { "item": "minecraft:red_dye" },
+    { "item": "minecraft:paper" }
+  ],
+  "result": {
+    "item": "wild_dog_milk:spring_autumn_sausage",
+    "count": 1
+  }
+}

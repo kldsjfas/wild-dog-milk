@@ -1,0 +1,35 @@
+{
+  "itemGroup.wild_dog_milk": "野生狗奶",
+  "item.wild_dog_milk.wild_dog_milk": "野生狗奶",
+  "item.wild_dog_milk.spring_autumn_sausage": "春秋肠",
+  "item.wild_dog_milk.chrysanthemum_drink": "菊花饮料",
+  "effect.wild_dog_milk.eternity": "不死",
+
+  "tooltip.wild_dog_milk.shelf_life": "保质期：永久",
+  "tooltip.wild_dog_milk.origin": "粤西特供 · 100% 野生奶源",
+  "tooltip.wild_dog_milk.eternity": "免疫一切伤害 · 持续夜视 · 昼夜加速 100 倍",
+  "tooltip.wild_dog_milk.wolf": "手持可吸引狼；右键或蹲下右键可喂自己的驯服狼",
+  "tooltip.wild_dog_milk.sausage": "随机回溯自身 10～60 秒",
+  "tooltip.wild_dog_milk.sausage_eternity": "唯一能终结「不死」的食物",
+  "tooltip.wild_dog_milk.chrysanthemum": "自身化作持续 30 秒的移动黑洞，期间完全无敌",
+  "tooltip.wild_dog_milk.chrysanthemum_range": "不分敌我地大范围吞噬实体与地形，最终猛烈爆炸并死亡",
+
+  "message.wild_dog_milk.drink.0": "你免疫一切伤害。",
+  "message.wild_dog_milk.drink.1": "时间开始畏惧你。",
+  "message.wild_dog_milk.drink.2": "所有生命都听见了宇宙的倒计时。",
+  "message.wild_dog_milk.drink.3": "这盒奶仍在保质期内。",
+  "message.wild_dog_milk.eternity_granted": "野生狗奶已生效：不死、夜视与 100 倍昼夜加速已启动。",
+  "message.wild_dog_milk.wolf_eternity_granted": "%s 获得了同款狗奶效果。",
+  "message.wild_dog_milk.wolf_not_tamed": "这只狼还没驯服，先用骨头驯服它。",
+  "message.wild_dog_milk.wolf_not_owned": "这不是你驯服的狼，不能喂它狗奶。",
+  "message.wild_dog_milk.sausage_breaks_eternity": "春秋轮回，终于追上了永恒。",
+  "message.wild_dog_milk.rewind_no_history": "时间还没有留下足够的痕迹。",
+  "message.wild_dog_milk.rewound": "你回到了 %s 秒前。",
+  "message.wild_dog_milk.space_fold_no_target": "视线尽头没有可以安全落脚的空间。",
+  "message.wild_dog_milk.space_folded": "空间被压缩了 %s 格，并卷走了 %s 个实体。",
+  "message.wild_dog_milk.black_hole_created": "你成为了黑洞：引力正在撕扯实体与地形。",
+  "message.wild_dog_milk.black_hole_collapsed": "黑洞猛烈坍缩，你也随之消亡。",
+  "disconnect.wild_dog_milk.forced_death": "在野生狗奶过期之前，你不能死。"
+  ,"subtitles.wild_dog_milk.drink_bgm": "野生狗奶的永恒旋律响起"
+  ,"subtitles.wild_dog_milk.sausage_bgm": "春秋肠令旋律逆流"
+}

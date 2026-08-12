@@ -1,0 +1,14 @@
+{
+  "drink_bgm": {
+    "subtitle": "subtitles.wild_dog_milk.drink_bgm",
+    "sounds": [
+      "wild_dog_milk:drink_bgm"
+    ]
+  },
+  "sausage_bgm": {
+    "subtitle": "subtitles.wild_dog_milk.sausage_bgm",
+    "sounds": [
+      "wild_dog_milk:sausage_bgm"
+    ]
+  }
+}

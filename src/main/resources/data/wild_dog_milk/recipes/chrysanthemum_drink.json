@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "type": "forge:nbt",
+      "item": "minecraft:potion",
+      "nbt": "{Potion:\"minecraft:water\"}"
+    },
+    { "item": "minecraft:dandelion" },
+    { "item": "minecraft:sugar" }
+  ],
+  "result": {
+    "item": "wild_dog_milk:chrysanthemum_drink",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "itemGroup.wild_dog_milk": "Wild Dog Milk",
+  "item.wild_dog_milk.wild_dog_milk": "Wild Dog Milk",
+  "item.wild_dog_milk.spring_autumn_sausage": "Spring-Autumn Sausage",
+  "item.wild_dog_milk.chrysanthemum_drink": "Chrysanthemum Drink",
+  "effect.wild_dog_milk.eternity": "Immortality",
+
+  "tooltip.wild_dog_milk.shelf_life": "Shelf life: permanent",
+  "tooltip.wild_dog_milk.origin": "Special supply from western Guangdong",
+  "tooltip.wild_dog_milk.eternity": "Immune to damage, persistent night vision, and 100x daylight speed",
+  "tooltip.wild_dog_milk.wolf": "Attracts wolves; right-click or sneak-right-click your own tamed wolf",
+  "tooltip.wild_dog_milk.sausage": "Rewinds you by a random 10-60 seconds",
+  "tooltip.wild_dog_milk.sausage_eternity": "The only food that can end Immortality",
+  "tooltip.wild_dog_milk.chrysanthemum": "Become an invincible moving black hole for 30 seconds",
+  "tooltip.wild_dog_milk.chrysanthemum_range": "Devours entities and terrain across a wide area, then explodes and kills you",
+
+  "message.wild_dog_milk.drink.0": "You are immune to all damage.",
+  "message.wild_dog_milk.drink.1": "Time has begun to fear you.",
+  "message.wild_dog_milk.drink.2": "All life hears the countdown of the universe.",
+  "message.wild_dog_milk.drink.3": "This carton is still within its shelf life.",
+  "message.wild_dog_milk.eternity_granted": "Wild Dog Milk activated immortality, night vision, and 100x daylight speed.",
+  "message.wild_dog_milk.wolf_eternity_granted": "%s received the same milk effects.",
+  "message.wild_dog_milk.wolf_not_tamed": "This wolf is not tamed yet. Tame it with bones first.",
+  "message.wild_dog_milk.wolf_not_owned": "You can only feed Wild Dog Milk to a wolf you tamed.",
+  "message.wild_dog_milk.sausage_breaks_eternity": "The cycle of seasons has finally caught eternity.",
+  "message.wild_dog_milk.rewind_no_history": "Time has not left enough history yet.",
+  "message.wild_dog_milk.rewound": "You returned to %s seconds ago.",
+  "message.wild_dog_milk.space_fold_no_target": "No safe destination exists at the end of your sightline.",
+  "message.wild_dog_milk.space_folded": "Space folded across %s blocks and carried %s entities.",
+  "message.wild_dog_milk.black_hole_created": "You became a black hole. Gravity is tearing through entities and terrain.",
+  "message.wild_dog_milk.black_hole_collapsed": "The black hole collapses violently, taking you with it.",
+  "disconnect.wild_dog_milk.forced_death": "You cannot die before wild dog milk expires."
+  ,"subtitles.wild_dog_milk.drink_bgm": "The eternal melody of wild dog milk plays"
+  ,"subtitles.wild_dog_milk.sausage_bgm": "The Spring-Autumn Sausage reverses the melody"
+}
