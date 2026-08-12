@@ -4,7 +4,8 @@
   "ingredients": [
     { "item": "minecraft:milk_bucket" },
     { "item": "minecraft:bone" },
-    { "item": "minecraft:blue_dye" }
+    { "item": "minecraft:blue_dye" },
+    { "item": "minecraft:clock" }
   ],
   "result": {
     "item": "wild_dog_milk:wild_dog_milk",
